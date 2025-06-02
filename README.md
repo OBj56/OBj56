@@ -34,7 +34,7 @@ I specialize in designing intelligent systems and building cross-platform tools 
 
 ## Contact 
 
-- Send me a message on Telegram: abnhndfh
+- Send me a message on Discord: arsamh
 -  Open to collaboration on AI/ML projects, systems design, or application development
 -  Available upon request: resume/CV, project documentation, and code samples
 
